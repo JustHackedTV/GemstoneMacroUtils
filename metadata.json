@@ -1,0 +1,8 @@
+{
+    "name": "Gemstone Macro Utils",
+    "creator": "Hacked Televisão",
+    "description": "Addons for the Skyskipped gemstone macro.",
+    "requires": ["Vigilance"],
+    "entry": "index.js",
+    "version": "1.0.1"
+  }
